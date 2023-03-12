@@ -22,10 +22,14 @@ http://motostockrom.com/
 - Note that you only need the "Firmware" directory from the motostockrom image.
 - You'll want to have this website on hand to recover the device if flashing it goes wrong.
 
+## PostmarketOS
+Work needs to be done to port ginna to PostmarketOS. This repository should help with that. See the `APKBUILD` and `deviceinfo` files. Both are heavily based on the MSM8916 mainlining guide.
+
 ## Resources
 - https://github.com/ixmoe/android_device_motorola_ginna_twrp
 - https://github.com/ixmoe/android_kernel_motorola_sdm632
 - https://github.com/msm8953-mainline/linux
 - https://wiki.postmarketos.org/wiki/Qualcomm_Snapdragon_450/625/626/632_(MSM8953)
-
+- https://wiki.postmarketos.org/wiki/MSM8916_Mainlining
+- https://wiki.postmarketos.org/wiki/Porting_to_a_new_device#Device_specific_package
 motorola-ocean might be similar enough to grab stuff from that.
