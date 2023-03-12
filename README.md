@@ -26,5 +26,6 @@ http://motostockrom.com/
 - https://github.com/ixmoe/android_device_motorola_ginna_twrp
 - https://github.com/ixmoe/android_kernel_motorola_sdm632
 - https://github.com/msm8953-mainline/linux
+- https://wiki.postmarketos.org/wiki/Qualcomm_Snapdragon_450/625/626/632_(MSM8953)
 
 motorola-ocean might be similar enough to grab stuff from that.
